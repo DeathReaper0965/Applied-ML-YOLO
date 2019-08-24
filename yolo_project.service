@@ -1,0 +1,12 @@
+[Unit]
+Description=Gunicorn instance for Yolo Project
+After=network.target
+
+[Service]
+User=root
+Group=www-data
+WorkingDirectory=/tensorflow-serving/aml_yolo_backend_task
+ExecStart=/usr/local/bin/gunicorn --workers 10 --bind 0.0.0.0:8501 -m 007 wsgi:app
+
+[Install]
+WantedBy=multi-user.target
