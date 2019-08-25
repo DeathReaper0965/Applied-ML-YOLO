@@ -1,4 +1,4 @@
-cd && git clone
+cd && git clone https://github.com/DeathReaper0965/aml_yolo_backend_task
 
 git clone https://github.com/tensorflow/serving
 
