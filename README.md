@@ -14,5 +14,5 @@ The Application is backed by **Supervisor, Gunicorn and WSGI servers** for handl
 
 Below is the sample of the input image and the output bounding boxes displayed over the image.
 
-![<img src="test.png" width="20"/>](https://github.com/DeathReaper0965/Applied-ML-YOLO/blob/master/images/test.jpg?raw=true) ![Predicted Image](https://github.com/DeathReaper0965/Applied-ML-YOLO/blob/master/images/required_output.jpg?raw=true)
+![Original Image](https://github.com/DeathReaper0965/Applied-ML-YOLO/blob/master/images/test.jpg?raw=true) ![Predicted Image](https://github.com/DeathReaper0965/Applied-ML-YOLO/blob/master/images/required_output.jpg?raw=true)
 
