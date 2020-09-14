@@ -16,3 +16,4 @@ Below is the sample of the input image and the output bounding boxes displayed o
 
 ![Original Image](https://github.com/DeathReaper0965/Applied-ML-YOLO/blob/master/images/test.jpg?raw=true) ![Predicted Image](https://github.com/DeathReaper0965/Applied-ML-YOLO/blob/master/images/required_output.jpg?raw=true)
 
+Made with ❤️ &nbsp;by Praneet Pabolu
