@@ -3,6 +3,6 @@ gunicorn==22.0.0
 flask_cors==3.0.9
 tensorflow==2.12.1
 keras==2.13.1
-opencv-python==4.4.0.42
+opencv-python==4.8.1.78
 numpy==1.22.0
 tensorflow-serving-api==2.3.0
