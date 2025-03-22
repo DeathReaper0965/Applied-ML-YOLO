@@ -1,5 +1,5 @@
 flask==2.3.2
-gunicorn==22.0.0
+gunicorn==23.0.0
 flask_cors==5.0.0
 tensorflow==2.12.1
 keras==3.9.0
